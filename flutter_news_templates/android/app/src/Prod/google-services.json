@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713095452263",
+    "project_id": "flutternewstemplate-prod",
+    "storage_bucket": "flutternewstemplate-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713095452263:android:2c68ea1a568bb41d65e6c2",
+        "android_client_info": {
+          "package_name": "com.newstemplate.FlutterNewsTemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfA0DlZJ5BUjlRK2TnEtihbdRrZhQDkQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
