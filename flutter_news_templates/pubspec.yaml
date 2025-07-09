@@ -41,6 +41,7 @@ dependencies:
   flow_builder: ^0.0.7
   flutter:
     sdk: flutter
+
   flutter_bloc: ^8.0.1
   flutter_localizations:
     sdk: flutter
@@ -89,6 +90,7 @@ dependencies:
   very_good_analysis: ^6.0.0
   video_player_platform_interface: ^6.0.1
   visibility_detector: ^0.4.0+2
+  dart_frog: ^1.2.0
 
 dev_dependencies:
   bloc_test: ^9.0.3

@@ -314,13 +314,13 @@ packages:
     source: hosted
     version: "0.17.3"
   dart_frog:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: dart_frog
-      sha256: a5da81b1ea4f3e8f03dfcd0bc9b44ba83a6576ce6dae1bb138a6a8f7b70fe727
+      sha256: "569db68a710bcadf96d8addc8988d09a93c4a9521cb6467c2df5ee0ab939c8a4"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.0"
+    version: "1.2.0"
   dart_style:
     dependency: transitive
     description:
