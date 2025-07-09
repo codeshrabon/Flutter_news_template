@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "713095452263",
-    "project_id": "flutternewstemplate-prod",
-    "storage_bucket": "flutternewstemplate-prod.firebasestorage.app"
+    "project_number": "559880001551",
+    "project_id": "flutternewtemplate-prod",
+    "storage_bucket": "flutternewtemplate-prod.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:713095452263:android:2c68ea1a568bb41d65e6c2",
+        "mobilesdk_app_id": "1:559880001551:android:5d7e685be9e51d0d15eb7a",
         "android_client_info": {
-          "package_name": "com.newstemplate.FlutterNewsTemplate"
+          "package_name": "com.newstemplate.FlutterNewsTemplate.prod"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAfA0DlZJ5BUjlRK2TnEtihbdRrZhQDkQ0"
+          "current_key": "AIzaSyBwcDDcIQhoZ2xtsTfHS8YGN9f0GWhpPyc"
         }
       ],
       "services": {

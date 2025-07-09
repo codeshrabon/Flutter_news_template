@@ -2,18 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>559880001551-tcnq6g78qsn5vnqllo1l1jjda6std8a7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.559880001551-tcnq6g78qsn5vnqllo1l1jjda6std8a7</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAoM_oH72AEmUL2XXetor-Dpf3jzlVhdpk</string>
+	<string>AIzaSyBmFgKFULpkbH1uOgrbX-f-4WYzEMWhf7U</string>
 	<key>GCM_SENDER_ID</key>
-	<string>713095452263</string>
+	<string>559880001551</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.newstemplate.FlutterNewsTemplate</string>
+	<string>com.newstemplate.FlutterNewsTemplate.prod</string>
 	<key>PROJECT_ID</key>
-	<string>flutternewstemplate-prod</string>
+	<string>flutternewtemplate-prod</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutternewstemplate-prod.firebasestorage.app</string>
+	<string>flutternewtemplate-prod.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:713095452263:ios:1f14d716266b463765e6c2</string>
+	<string>1:559880001551:ios:50dfb50ef48ab41815eb7a</string>
 </dict>
 </plist>

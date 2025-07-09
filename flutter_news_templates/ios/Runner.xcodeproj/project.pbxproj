@@ -672,7 +672,7 @@
         );
         PRODUCT_BUNDLE_IDENTIFIER = "com.flutter.news.template.dev";
         PRODUCT_NAME = "$(TARGET_NAME)";
-        REVERSED_CLIENT_ID = "<PASTE-REVERSED-CLIENT-ID-HERE>";
+        REVERSED_CLIENT_ID = "<string>com.googleusercontent.apps.559880001551-tcnq6g78qsn5vnqllo1l1jjda6std8a7</string>";
         SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
         SWIFT_VERSION = 5.0;
         TWITTER_REDIRECT_URI_SCHEME = "flutter-news-templates";
